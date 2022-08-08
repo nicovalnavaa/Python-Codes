@@ -1,0 +1,7 @@
+## ¿Como puedo imprimir un hola mundo? 
+
+##Las sentencias en python son simples, es cuestion de llamar a print palabra reservada y ente 
+##parentesis con comillas dobles escribir lo que quiero mostrar en consola
+
+
+print ("hola mundo")
